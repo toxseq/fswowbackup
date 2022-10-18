@@ -18,6 +18,7 @@ I have written a pdf-file as description for installation (only in german).
 
 # Usage
 I have chosen to setup a planned task in Windows, which starts the tool everytime i startup my windows.
+The whole configuration is done within  the config.ini file. You just need to check the set parameters, manipulate them if you want and execute the .exe file.
 
 # Attention
 
