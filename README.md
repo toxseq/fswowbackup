@@ -16,6 +16,15 @@ I have written a pdf-file as description for installation (only in german).
   - game (chose if you want to backup retail or classic)
   - backupmode (chose if the tool should remove "files older then X days" or "remove files if the backupfile-count exceeds amount X")
 
+## Backup Files
+
+The following files will be included into the backup:
+
+  - whole game path of the chosen game version
+  This will look like this later:
+  ![image](https://user-images.githubusercontent.com/116079190/196418837-fd8504a1-918d-49b7-a901-446e9fba7157.png)
+
+
 # Usage
 I have chosen to setup a planned task in Windows, which starts the tool everytime i startup my windows.
 The whole configuration is done within  the config.ini file. You just need to check the set parameters, manipulate them if you want and execute the .exe file.
