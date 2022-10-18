@@ -18,6 +18,9 @@ I know, that this tool is far away from perfect. I am no professional software e
   - game (chose if you want to backup retail or classic)
   - backupmode (chose if the tool should remove "files older then X days" or "remove files if the backupfile-count exceeds amount X")
 
+  ![image](https://user-images.githubusercontent.com/116079190/196419294-347b29fb-dedc-481f-8a5a-c4aa2088fe96.png)
+
+
 ## Backup Files
 
 The following files will be included into the backup:
