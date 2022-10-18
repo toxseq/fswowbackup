@@ -1,4 +1,4 @@
-# fsbackup
+# fsbackup - general
 This is a python written backup tool for blizzards world of warcraft.
 
 Storyline:
@@ -6,6 +6,8 @@ I got mad two or three times, when an addon crashed and i had no backup of it. S
 So i decided to create this tool. It is not perfect and if you find anything we can improve or ad, just let me know.
 
 I have written a pdf-file as description for installation (only in german).
+
+I know, that this tool is far away from perfect. I am no professional software engineer, so if anyone wants to help me improving my cofing style, just let me know! :)
 
 # Main Features
 
